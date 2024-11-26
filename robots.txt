@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ahmaddidiks.github.io/web//sitemap.xml
+Sitemap: https://ahmaddidiks.github.io/web/web//sitemap.xml
